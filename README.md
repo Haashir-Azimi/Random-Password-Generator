@@ -1,2 +1,2 @@
 # Random-Password-Generator
-Creates a random password in a Tkiner GUI
+Creates a random password in a Tkinter GUI
